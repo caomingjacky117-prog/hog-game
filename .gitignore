@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.grader/
+.vscode/
+.DS_Store
+*.swp
+.provenance/
+.provenance-manifest
